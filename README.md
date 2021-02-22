@@ -6,8 +6,15 @@ Step # 1:
   
 Step # 2:
   -Install Python from: https://www.python.org/
-  
-Step # 3: 
+Step # 4:
+   - upgrade pip
+      - pip install --upgrade pip
+Step # 4: 
   -Open Terminal window and the the next set of commands to install NumPy and OpenCV:
       - python -m pip install numpy
       - python -m pip install opencv-python
+
+Step #5:
+  - install  djitellopy lib
+    $ pip install djitellopy
+  - 
